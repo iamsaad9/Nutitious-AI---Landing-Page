@@ -62,6 +62,7 @@ width: 100%;
   border-radius: 14px;
   background: #f9fdf9;
   transition: all 0.3s ease;
+  border: 1px solid #4caf50;
 }
 
 .data-card:hover {

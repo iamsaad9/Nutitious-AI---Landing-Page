@@ -60,7 +60,7 @@ const HeroSection = () => {
 
         .hero-input {
   flex: 1;
-  padding: 16px 60px 16px 20px; 
+  padding: 16px; 
   border: 1px solid #e0e0e0;
   border-radius: 50px;
   font-size: 15px;
@@ -334,6 +334,9 @@ const HeroSection = () => {
             gap: 40px;
           }
 
+          .hero-left{
+            padding-top: 0;}
+       
           .hero-title {
             font-size: 36px;
           }
